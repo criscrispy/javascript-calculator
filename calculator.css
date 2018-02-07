@@ -1,0 +1,38 @@
+body {
+        background-color: B8860B;
+}
+
+h1 {
+     color : blue;
+     font-size:70;
+}
+
+#calc-contain{
+    position:relative;
+    width:258px;
+    border= 2px solid black;
+    border-radius:4px;
+    background:FFF8DC
+}
+
+input[type=text]
+{
+    width: 254px;
+    border:solid black;
+    height:60px;
+    font-size:30;
+    border-radius:8px;
+    margin: 3px;
+    text-align: right;
+
+}
+
+input[type=button]{
+    background: LightGray;
+    width: 20%;
+    font-size:20px;
+    font-weight:900;
+    border-radius:4px;
+
+
+}
